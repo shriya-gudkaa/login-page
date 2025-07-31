@@ -1,0 +1,48 @@
+
+body {
+    background-color: beige;
+    padding: 5px ;
+    font-size: medium;
+    text-align: center;
+}
+
+input {
+    border: 2px solid black;
+     background-color:  lightgrey;
+    cursor: pointer;
+    padding: 5px;
+}
+    
+label {
+    border: 1px solid black;
+}
+
+.reset-box {
+  display: block;
+  margin-top: 10px;
+}
+
+button {
+    border: 2px solid black;
+    background-color:  lightgrey;
+    padding: 5px;
+}
+.signup-text {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  font-size: 20px;
+}
+
+.signup-link {
+  color: #4a90e2;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.signup-link:hover {
+  text-decoration: underline;
+}
+p {
+    font-size: x-large;
+}
